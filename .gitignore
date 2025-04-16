@@ -31,4 +31,4 @@ build/
 
 ### vs code ###
 .vscode/
-
+.gitattributes
